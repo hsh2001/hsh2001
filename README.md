@@ -4,7 +4,7 @@ Hello. I'm a web and mobile app developer.
 
 ### 💼 Career
 
-- Web developer at [CRIDB](https://spots.school): 2019.06 ~
+- Web developer at [CRIDB](https://spots.school): 2019.07 ~
 
 ### 👨‍💻 Skills
 - Front-end
