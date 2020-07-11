@@ -1,39 +1,89 @@
 ## Seung-hyun Hwang
 
-Hello. I'm a web and mobile app developer. 
+Hello. I'm a web and mobile app developer.
 
 ### 💼 Career
 
 - Web developer at [CRIDB](https://spots.school): 2019.07 ~
 
 ### 👨‍💻 Skills
-- Front-end
-  - HTML
-  - CSS
-  - SCSS
-  - JavaScript
-  - TypeScript
-  - React
-    - React with TypeScript
-- Back-end
-  - PHP
-  - NodeJS
-    - NextJS
-- Mobile App
-  - React Native
-    - React Native with TypeScript
-- Version control
-  - Git
-    - Git flow
-  - Collaborate with Github
-- Database
-  - MySQL
-  - SQLite
-- etc.
-  - C
-  - R
-  - Perl
-  - Python
+
+<ul>
+  <li>
+    <details>
+    <summary>Front-end</summary>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>SCSS</li>
+      <li>JavaScript</li>
+      <li>TypeScript</li>
+      <li>React</li>
+      <ul>
+        <li>React with TypeScript</li>  
+      <ul>
+    </ul>
+    </details>
+  </li>
+  <li>
+  <details>
+ <summary>Back-end</summary>
+  <ul>
+  <li>PHP</li>
+  <li>NodeJS
+  <ul>
+  <li>NextJS</li>
+  </ul>
+  </li>
+  </ul>
+  </li>
+  </details>
+  <li>
+  <details>
+  <summary>Mobile App</summary>
+  <ul>
+  <li>React Native
+  <ul>
+  <li>React Native with TypeScript</li>
+  </ul>
+  </li>
+  </ul>
+  </details>
+  </li>
+  <li>
+  <details>
+<summary>Version control</summary>
+  <ul>
+  <li>Git
+  <ul>
+  <li>Git flow</li>
+  </ul>
+  </li>
+  <li>Collaborate with Github</li>
+  </ul>
+  </details>
+  </li>
+  <li>
+ <details>
+ <summary>Database</summary>
+  <ul>
+  <li>MySQL</li>
+  <li>SQLite</li>
+  </ul>
+  </details>
+  </li>
+  <li>
+  <details>
+ <summary>etc.</summary>
+  <ul>
+  <li>C</li>
+  <li>R</li>
+  <li>Perl</li>
+  <li>Python</li>
+  </ul>
+  </details>
+  </li>
+</ul>
 
 ### 📬 Contacts
 
