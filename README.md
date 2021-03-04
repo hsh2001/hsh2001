@@ -6,6 +6,7 @@ Hello. I'm a web and mobile app developer.
 
 - Web developer at [CRIDB](https://spots.school): 2019.07 ~
 - PHP developer at [Echo & Company - EchoBlog](https://echoblog.net): 2021.01 ~
+- CTO at [TCGwiz](https://github.com/tcgwiz): 2021.03 ~
 
 ### 👨‍💻 Skills
 
