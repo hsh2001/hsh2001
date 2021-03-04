@@ -5,6 +5,7 @@ Hello. I'm a web and mobile app developer.
 ### 💼 Career
 
 - Web developer at [CRIDB](https://spots.school): 2019.07 ~
+- PHP developer at [Echo & Company - EchoBlog](https://echoblog.net): 2021.01 ~
 
 ### 👨‍💻 Skills
 
