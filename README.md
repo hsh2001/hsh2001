@@ -10,6 +10,9 @@ Hello. I'm a web and mobile app developer.
 
 ### 👨‍💻 Skills
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsh2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <ul>
   <li>
     <details>
@@ -93,6 +96,5 @@ Hello. I'm a web and mobile app developer.
 - <a href="mailto:dev@hsh.kr">email</a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsh2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
