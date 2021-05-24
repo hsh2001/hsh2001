@@ -1,17 +1,16 @@
 ## Asher Hwang
 
-Hello. I'm a web and mobile app developer.
+Hello. I'm a software developer.
 
 ### 💼 Career
 
-- Web developer at [CRIDB](https://spots.school): 2019.07 ~
-- PHP developer at [Echo & Company - EchoBlog](https://echoblog.net): 2021.01 ~
+- Web(NextJS with TypeScript) developer at [CRIDB](https://spots.school): 2019.07 ~
+- Web(PHP) developer at [Echo & Company - EchoBlog](https://echoblog.net): 2021.01 ~
 - CTO at [TCGwiz](https://github.com/tcgwiz): 2021.03 ~
 
 ### 👨‍💻 Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsh2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <ul>
   <li>
@@ -52,6 +51,9 @@ Hello. I'm a web and mobile app developer.
   <li>React Native with TypeScript</li>
   </ul>
   </li>
+  </ul>
+    <ul>
+  <li>Flutter</li>
   </ul>
   </details>
   </li>
@@ -94,7 +96,3 @@ Hello. I'm a web and mobile app developer.
 
 - <a href="http://dev.hsh.kr" target="_blank">Website</a>
 - <a href="mailto:dev@hsh.kr">email</a>
-
-
-
-
