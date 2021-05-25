@@ -4,8 +4,8 @@ Hello. I'm a software developer.
 
 ### 💼 Career
 
-- Web(NextJS with TypeScript) developer at [CRIDB](https://spots.school): 2019.07 ~
-- Web(PHP) developer at [Echo & Company - EchoBlog](https://echoblog.net): 2021.01 ~
+- Web developer at [CRIDB](https://spots.school): 2019.07 ~
+- Web developer at [Echo & Company - EchoBlog](https://echoblog.net): 2021.01 ~
 - CTO at [TCGwiz](https://github.com/tcgwiz): 2021.03 ~
 
 ### 👨‍💻 Skills
