@@ -5,8 +5,8 @@ Hello. I'm a software developer.
 ### 💼 Career
 
 - Web developer at [CRIDB](https://spots.school) : 2019.07 ~
-- Web & Flutter developer at [Echo & Company - EchoBlog](https://echoblog.net) : 2021.01 ~
-<!-- - CTO at [TCGwiz](https://github.com/tcgwiz): 2021.03 ~ -->
+- Web developer at [Echo & Company - EchoBlog](https://echoblog.net) : 2021.01 ~ 2021.04
+- Softwere engineer at [MARK87](https://mark87.com) : 2021.04 ~
 
 ### 👨‍💻 Skills
 
@@ -80,6 +80,15 @@ Hello. I'm a software developer.
   </details>
   </li>
   <li>
+  <details>
+ <summary>Bapp & Dapp</summary>
+  <ul>
+  <li>Ethereum + Web3</li>
+  <li>Klaytn + caver-js</li>
+  </ul>
+  </details>
+  </li>
+    <li>
   <details>
  <summary>etc.</summary>
   <ul>
