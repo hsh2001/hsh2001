@@ -6,7 +6,7 @@ Hello. I'm a software developer.
 
 - Web developer at [CRIDB](https://spots.school) : 2019.07 ~
 - Web developer at [Echo & Company - EchoBlog](https://echoblog.net) : 2021.01 ~ 2021.04
-- Softwere engineer at [MARK87](https://mark87.com) : 2021.04 ~ 2022.03
+- Software engineer at [MARK87](https://mark87.com) : 2021.04 ~ 2022.03
 - Web backend developer at [Mathpang](https://mathpang.com/) : 2022.05 ~
 
 ### 👨‍💻 Skills
